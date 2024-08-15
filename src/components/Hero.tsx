@@ -1,9 +1,11 @@
 const Hero = () => (
-  <section aria-labelledby="hero-heading" className="flex flex-col py-24 items-center mx-2.5">
+  <section
+    aria-labelledby="hero-heading"
+    className="flex flex-col py-24 items-center mx-2.5">
     <div>
       <h1
-        id="hero-heading"
         className="font-Lexend text-4xl md:text-5xl text-center text-lightSlate leading-tight tracking-tight"
+        id="hero-heading"
       >
         {`Find `}
         <span
