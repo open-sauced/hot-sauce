@@ -1,3 +1,5 @@
+**This project has been archived in favor of the new Explore page, https://app.opensauced.pizza/explore**
+
 <div align="center">
   <br>
   <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
