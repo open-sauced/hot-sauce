@@ -1,4 +1,4 @@
-**This project has been archived in favour of the new Explore page, https://app.opensauced.pizza/explore**
+**This project has been archived in favor of the new Explore page, https://app.opensauced.pizza/explore**
 
 <div align="center">
   <br>
